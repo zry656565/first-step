@@ -1,0 +1,30 @@
+{
+  "name": "first-step",
+  "version": "0.0.1",
+  "description": "a simple scaffolding tool",
+  "main": "first-step.js",
+  "bin": {
+    "first-step-benchmark": "./first-step.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zry656565/first-step.git"
+  },
+  "keywords": [
+    "scaffolding",
+    "first-step"
+  ],
+  "author": "JerryZou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zry656565/first-step/issues"
+  },
+  "homepage": "https://github.com/zry656565/first-step#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "first-step-benchmark": "^0.1.1"
+  }
+}
